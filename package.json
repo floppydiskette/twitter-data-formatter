@@ -1,0 +1,12 @@
+{
+  "name": "twitter-data-formatter",
+  "version": "1.0.0",
+  "description": "incredibly basic thing for getting a good data format for my tweets",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "process": "^0.11.10"
+  }
+}
